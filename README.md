@@ -4,7 +4,7 @@ O programa possui uma interface gráfica construída com Tkinter e é executáve
 
 # Funcionalidades
 
-1. Identificação de Hardware: O programa lista todos os principais componentes de hardware do sistema, incluindo CPU, placa-mãe, memória RAM, discos rígidos, placas de vídeo, placas de som e periféricos.
+1. Identificação de Hardware: O programa lista todos os principais componentes de hardware do sistema, incluindo CPU, memória RAM e placas de vídeo.
 
 2. Informações do Sistema Operacional: Ele fornece informações detalhadas sobre o sistema operacional instalado, incluindo versão, atualizações e licença.
 
