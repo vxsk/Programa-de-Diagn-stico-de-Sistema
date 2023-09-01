@@ -1,6 +1,6 @@
 # Programa de Diagnóstico de Sistema
 Este é um projeto de faculdade que permite aos usuários obter informações detalhadas sobre o hardware e o software de um computador. 
-O programa possui uma interface gráfica construída com Tkinter e é executável como um aplicativo independente, graças ao Pandas.
+O programa possui uma interface gráfica construída com Tkinter e é executável como um aplicativo independente, com intuito de se assemelhar ao Aida32.
 
 # Funcionalidades
 
